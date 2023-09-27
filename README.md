@@ -1,16 +1,13 @@
-Hacktoberfest-2022
-
-**Checkout this Project as well [Annoying Button😡](https://annoyingsubmitbutton.netlify.app/) , It's hacktoberfest github : [https://github.com/fineanmol/Annoying-submit-button](https://github.com/fineanmol/Annoying-submit-button)**
-
+Hacktoberfest-2023
 
 # Submit your PR on this new repo [Hacktoberfest](https://github.com/fineanmol/hacktoberfest) , There we are merging all PR. 
 
 In this current repo, there are alot of conflicts, we are not merging until all conflicts get resolved.
-Hacktoberfest { [Live Website](https://fineanmol.github.io/Hacktoberfest2022/)}
+Hacktoberfest { [Live Website](https://prakuldashing.github.io/HacktoberFest2023/)}
 
 
 **This is a beginner-friendly project to help you get started with your
-[hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start, feel free to watch the videos linked below, and read the contribution rules. Happy Learning <3 💙 !!**
+[hacktoberfest](https://hacktoberfest.com/). If you don't know where to start, feel free to watch the videos linked below, and read the contribution rules. Happy Learning <3 💙 !!**
 
 P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 
@@ -105,12 +102,11 @@ For more information on syncing forks [read this article from Github](https://he
 
 - Who all can contribute?
   - Anyone with a github account and who is signed up for
-[hacktoberfest](https://hacktoberfest.digitalocean.com/) :)
+[hacktoberfest]((https://hacktoberfest.com/)) :)
 - Are you getting paid for this?
   - Sadly no. But we think we should. This is 100% unofficial and we do it for fun, fame and glory.
 - Who are you and why are you doing this?
-  - We are two programmers from India [Anmol](https://www.linkedin.com/in/fineanmol/)
-  and [Ritesh](https://github.com/ritesh2905). We are doing this because we love Open Source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
+-We are doing this because we love Open Source and Hacktoberfest. We want to make it easier for people to get started with Hacktoberfest and Open Source.
 - Why are you not using digitalocean?
   - Because we only know JavaScript and suck at servers. We use [now](https://zeit.co/now) instead.
 
@@ -133,5 +129,5 @@ For more information on syncing forks [read this article from Github](https://he
 
 ## Our Top Contributors 
 <p align="center"><a href="https://github.com/fineanmol/Hacktoberfest2022/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=fineanmol/Hacktoberfest2022" />
+  <img src="https://contributors-img.web.app/image?repo=PrakulDashing/HacktoberFest2023" />
 </a></p>
